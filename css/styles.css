@@ -483,6 +483,27 @@ button:focus {
     color: #f4f4fd;
 }
 
+.footer-container {
+    display: flex;
+    align-items: baseline;
+
+}
+
+.logo-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-text {
+    margin-right: 120px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+
 .page-footer {
     background-color: #2e2f42;
     padding: 100px 0;
