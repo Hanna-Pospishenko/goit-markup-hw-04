@@ -284,7 +284,7 @@ button:focus {
     gap: 24px;
 }
 
-.strategy {
+/*.strategy {
     width: 264px;
     height: 112px;
     background-color: #f4f4fd;
@@ -293,9 +293,11 @@ button:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-}
+}*/
 
 .two-stategy {
+    width: 264px;
+    height: 112px;
     display: flex;
     align-items: center;
     justify-content: center;
